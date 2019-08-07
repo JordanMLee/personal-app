@@ -48,10 +48,10 @@ class Sidebar extends Component {
 						</ul>
 					</li>
 					<li>
-						<a href="#">Portfolio</a>
+						<a href="https://github.com/jordanmlee">Portfolio</a>
 					</li>
 					<li>
-						<a href="#" onClick={this.props.toggleContactCard}>Contact</a>
+						<a href="/contact" onClick={this.props.toggleContactCard}>Contact</a>
 					</li>
 				</ul>
 
